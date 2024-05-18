@@ -13,7 +13,7 @@ Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e aná
 
 ## Projetos Recentes
 
-- Dashboard Financeiro FIAT
+- [Dashboard Financeiro FIAT ](https://github.com/FabioCerqueiraGit/AnaliseDadosPowerBI)
 - Dashboard Comercial DNC
 - Dashboard Ecommerce Mercado Livre
 
