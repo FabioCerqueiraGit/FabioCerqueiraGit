@@ -2,14 +2,12 @@
 
 Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e análise de dados. Tenho expertise em SQL Query e na criação de dashboards com Looker Studio, Jupyter, Google Colab, Plotly, PowerBI com DAX, e análise preditiva com Scikit-Learn, Akkio e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto. Comprometido com a excelência, estou pronto para contribuir significativamente para o avanço da empresa.
 
-## Formação Acadêmica
+## Onde me encontrar
 
-- GRADUAÇÃO TECNOLOGIA EM CIÊNCIA DE DADOS | DEZEMBRO/2025 | UNINTER
-- GRADUAÇÃO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS | JULHO/2024 | UNINTER
-- FORMAÇÃO EM DATA ANALYST - ESCOLA DNC JUNHO/2024
-- FORMAÇÃO EM CIÊNCIA DE DADOS - PREDITIVA IO MAIO/2024
-- MASTER OF DATA SCIENCE AND ARTIFICIAL INTELLIGENCE – DATATECH FLÓRIDA CONCLUSÃO PREVISTA NOVEMBRO/2024
-- INGLÊS B1 - EF EDUCATION FIRST
+[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=wordpress&logoColor=white&link=https://www.fabiocerqueira.com/blog)](https://www.fabiocerqueira.com/blog)
+[![Lintr.ee](https://img.shields.io/badge/-Linktr.ee-green?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/fabiocerqueira)](https://linktr.ee/fabiocerqueira)
+[![Linkedin](https://img.shields.io/badge/-Fabio%20Cerqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabitocerqueira)](https://www.linkedin.com/in/fabitocerqueira)
+[![Youtube](https://img.shields.io/badge/-Fabio%20Cerqueira-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)](https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)
 
 ## Certificações
  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center; margin: 20px;">
@@ -67,11 +65,3 @@ Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e aná
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe Fireworks](https://img.shields.io/badge/-Adobe%20FireWorks-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<br/>
-
-## Onde me encontrar
-
-[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=wordpress&logoColor=white&link=https://www.fabiocerqueira.com/blog)](https://www.fabiocerqueira.com/blog)
-[![Lintr.ee](https://img.shields.io/badge/-Linktr.ee-green?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/fabiocerqueira)](https://linktr.ee/fabiocerqueira)
-[![Linkedin](https://img.shields.io/badge/-Fabio%20Cerqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabitocerqueira)](https://www.linkedin.com/in/fabitocerqueira)
-[![Youtube](https://img.shields.io/badge/-Fabio%20Cerqueira-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)](https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)
