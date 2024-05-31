@@ -1,6 +1,12 @@
 ## Resumo da carreira
 
-Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e análise de dados. Tenho expertise em SQL Query e na criação de dashboards com Looker Studio, Jupyter, Google Colab, Plotly, PowerBI com DAX, e análise preditiva com Scikit-Learn, Akkio e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto. Comprometido com a excelência, estou pronto para contribuir significativamente para o avanço da empresa.
+Analista de Dados | Cientista de Dados | Engenheiro de Dados
+
+Whatsapp +55 (31) 98457-3832
+
+Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e análise de dados. Tenho expertise em SQL Query e na criação de dashboards com Looker Studio, Jupyter, Google Colab, Plotly, Power BI com DAX, e análise preditiva com Scikit-Learn, Akkio e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto.
+
+Possuo domínio das ferramentas de Cloud para análise e ciência de dados, incluindo Azure (Azure Data Factory, Azure Synapse Analytics, Azure Machine Learning), AWS (Amazon Redshift, AWS Glue, Amazon SageMaker), e Google Cloud (BigQuery, Google Data Studio, Vertex AI). Trabalho tanto em ambiente Windows quanto Linux.
 
 ## Onde me encontrar
 
@@ -61,6 +67,7 @@ Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e aná
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 **Outras Ferramentas**
+
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe Fireworks](https://img.shields.io/badge/-Adobe%20FireWorks-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
