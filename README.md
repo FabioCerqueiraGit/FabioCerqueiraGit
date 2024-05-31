@@ -27,12 +27,17 @@ Possuo domínio das ferramentas de Cloud para análise e ciência de dados, incl
   </div>
 </div>
 
-## Projetos Recentes
+## Projetos em Análise de Dados
 
 - Dashboard Financeiro FIAT [Clique aqui para acessar o projeto](https://github.com/FabioCerqueiraGit/AnaliseDadosPowerBI)
 - Dashboard Comercial DNC [Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Q1NzkxMzAtMjdiZC00NDAyLTgzMDktNGE5N2M2MzYyZTNhIiwidCI6ImNjMTM1YTdlLTZhZmMtNDA5Mi04MzEzLTgwNmI2NjkwODkyNiJ9)
-- Dashboard Ecommerce Mercado Livre [Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRjNTY0NDMtZmJmMi00MDdkLWI5ODYtMDU5ZTRmNGI2Yjk1IiwidCI6ImNjMTM1YTdlLTZhZmMtNDA5Mi04MzEzLTgwNmI2NjkwODkyNiJ9)
 
+## Projetos em Ciência de Dados
+
+- Prevenção de Fraude em E-mails [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/f334bfb2b9a521ed8b415cd58a3d67bab6203a57/FraudDetection)
+- Previsão de Preço Imobiliário com ML [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/06acea2c2cdecc66bd5c8aa26af6a2611a7cdcf4/PredictingHousingPrices)
+- Prevenção de Fraude em Cartões de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/FraudulentCreditCard)
+- Previsão de Risco de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/PredictingCreditRisk)
 
 ## Minhas Skills
 
