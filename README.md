@@ -41,22 +41,22 @@ Possuo domínio das ferramentas de Cloud para análise e ciência de dados, incl
 
 ## Minhas Hard Skills
 
-- *Plataformas de Big Data:* Hadoop, Apache Spark, Apache Flink
-- Armazenamento de Dados: Azure, HDFS (Hadoop Distributed File System), Amazon S3, Google Cloud Storage
-- Bancos de Dados: SQL (Structured Query Language), NoSQL (MongoDB, Cassandra, Redis), NewSQL (CockroachDB, TiDB)
-- Frameworks de Processamento de Dados em Tempo Real: Kafka, Apache Storm, Apache Beam
-- Orquestração de Fluxo de Trabalho: Apache Airflow, Apache Oozie, Kubernetes
-- Ferramentas de Visualização de Dados: Tableau, Power BI, Apache Superset
-- Linguagens de Programação: Python, Scala, Java, R
-- Ferramentas de Manipulação e Limpeza de Dados: Pandas, Apache Spark SQL, Trifacta
-- Ferramentas de Machine Learning e IA: TensorFlow, PyTorch, Scikit-learn
-- Ferramentas de Colaboração e Versionamento: Git, GitHub, Bitbucket
+- **Plataformas de Big Data:** Hadoop, Apache Spark, Apache Flink
+- **Armazenamento de Dados:** Azure, HDFS (Hadoop Distributed File System), Amazon S3, Google Cloud Storage
+- **Bancos de Dados:** SQL (Structured Query Language), NoSQL (MongoDB, Cassandra, Redis), NewSQL (CockroachDB, TiDB)
+- **Frameworks de Processamento de Dados em Tempo Real:** Kafka, Apache Storm, Apache Beam
+- **Orquestração de Fluxo de Trabalho:** Apache Airflow, Apache Oozie, Kubernetes
+- **Ferramentas de Visualização de Dados:** Tableau, Power BI, Apache Superset
+- **Linguagens de Programação:** Python, Scala, Java, R
+- **Ferramentas de Manipulação e Limpeza de Dados:** Pandas, Apache Spark SQL, Trifacta
+- **Ferramentas de Machine Learning e IA:** TensorFlow, PyTorch, Scikit-learn
+- **Ferramentas de Colaboração e Versionamento:** Git, GitHub, Bitbucket
 
 ## Minhas Soft Skills
 
-- Liderança e Gestão de Equipes: Experiência comprovada na coordenação de times multidisciplinares, promovendo um ambiente colaborativo e produtivo.
-- Comunicação Eficaz: Capacidade de transmitir informações complexas de maneira clara e acessível para diferentes públicos.
-- Resolução de Problemas: Habilidade para identificar desafios e propor soluções inovadoras e eficazes.
-- Gerenciamento de Projetos: Competência em planejar, executar e finalizar projetos dentro dos prazos e orçamentos estabelecidos.
-- Adaptabilidade: Flexibilidade para se ajustar a novas tecnologias e metodologias, mantendo-se atualizado com as tendências do setor.
-- Pensamento Analítico: Forte capacidade de análise de dados para apoiar a tomada de decisões estratégicas.
+- **Liderança e Gestão de Equipes:** Experiência comprovada na coordenação de times multidisciplinares, promovendo um ambiente colaborativo e produtivo.
+- **Comunicação Eficaz:** Capacidade de transmitir informações complexas de maneira clara e acessível para diferentes públicos.
+- **Resolução de Problemas:** Habilidade para identificar desafios e propor soluções inovadoras e eficazes.
+- **Gerenciamento de Projetos:** Competência em planejar, executar e finalizar projetos dentro dos prazos e orçamentos estabelecidos.
+- **Adaptabilidade:** Flexibilidade para se ajustar a novas tecnologias e metodologias, mantendo-se atualizado com as tendências do setor.
+- **Pensamento Analítico:** Forte capacidade de análise de dados para apoiar a tomada de decisões estratégicas.
