@@ -39,41 +39,24 @@ Possuo domínio das ferramentas de Cloud para análise e ciência de dados, incl
 - Prevenção de Fraude em Cartões de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/FraudulentCreditCard)
 - Previsão de Risco de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/PredictingCreditRisk)
 
-## Minhas Skills
+## Minhas Hard Skills
 
-**Aplicações e dados**
+- *Plataformas de Big Data:* Hadoop, Apache Spark, Apache Flink
+- Armazenamento de Dados: Azure, HDFS (Hadoop Distributed File System), Amazon S3, Google Cloud Storage
+- Bancos de Dados: SQL (Structured Query Language), NoSQL (MongoDB, Cassandra, Redis), NewSQL (CockroachDB, TiDB)
+- Frameworks de Processamento de Dados em Tempo Real: Kafka, Apache Storm, Apache Beam
+- Orquestração de Fluxo de Trabalho: Apache Airflow, Apache Oozie, Kubernetes
+- Ferramentas de Visualização de Dados: Tableau, Power BI, Apache Superset
+- Linguagens de Programação: Python, Scala, Java, R
+- Ferramentas de Manipulação e Limpeza de Dados: Pandas, Apache Spark SQL, Trifacta
+- Ferramentas de Machine Learning e IA: TensorFlow, PyTorch, Scikit-learn
+- Ferramentas de Colaboração e Versionamento: Git, GitHub, Bitbucket
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=1572B6)
-![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi&logoColor=1572B6)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter&logoColor=1572B6)
-![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly&logoColor=1572B6)
-![R para Data Sci](https://img.shields.io/badge/-R%20Data%20Sci-333333?style=flat&logo=r&logoColor=1572B6)
+## Minhas Soft Skills
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Azure Devops](https://img.shields.io/badge/-Azure%20Devops-333333?style=flat&logo=microsoft)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-**Outras Ferramentas**
-
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe Fireworks](https://img.shields.io/badge/-Adobe%20FireWorks-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
+- Liderança e Gestão de Equipes: Experiência comprovada na coordenação de times multidisciplinares, promovendo um ambiente colaborativo e produtivo.
+- Comunicação Eficaz: Capacidade de transmitir informações complexas de maneira clara e acessível para diferentes públicos.
+- Resolução de Problemas: Habilidade para identificar desafios e propor soluções inovadoras e eficazes.
+- Gerenciamento de Projetos: Competência em planejar, executar e finalizar projetos dentro dos prazos e orçamentos estabelecidos.
+- Adaptabilidade: Flexibilidade para se ajustar a novas tecnologias e metodologias, mantendo-se atualizado com as tendências do setor.
+- Pensamento Analítico: Forte capacidade de análise de dados para apoiar a tomada de decisões estratégicas.
