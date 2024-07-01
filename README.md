@@ -50,7 +50,7 @@ Possuo domínio das ferramentas de Cloud para análise e ciência de dados, incl
 - **Linguagens de Programação:** Python, Scala, Java, R
 - **Ferramentas de Manipulação e Limpeza de Dados:** Pandas, Apache Spark SQL, Trifacta
 - **Ferramentas de Machine Learning e IA:** TensorFlow, PyTorch, Scikit-learn
-- **Ferramentas de Colaboração e Versionamento:** Git, GitHub, Bitbucket
+- **Ferramentas de Colaboração e Versionamento:** Git, GitHub, Azure Devops
 
 ## Minhas Soft Skills
 
