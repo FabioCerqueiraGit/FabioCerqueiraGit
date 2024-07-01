@@ -46,7 +46,7 @@ Possuo domínio das ferramentas de Cloud para análise e ciência de dados, incl
 - **Bancos de Dados:** SQL (SQL SERVER, MYSQL, POSTGRE), NoSQL (MongoDB, Cassandra, Redis), NewSQL (CockroachDB, TiDB)
 - **Frameworks de Processamento de Dados em Tempo Real:** Kafka, Apache Storm, Apache Beam
 - **Orquestração de Fluxo de Trabalho:** SSIS, Azure Data Factory
-- **Ferramentas de Visualização de Dados:** Tableau, Power BI, Apache Superset
+- **Ferramentas de Visualização de Dados:** Tableau e Power BI
 - **Linguagens de Programação:** Python, Scala, Java, R
 - **Ferramentas de Manipulação e Limpeza de Dados:** Pandas, Apache Spark SQL, Trifacta
 - **Ferramentas de Machine Learning e IA:** TensorFlow, PyTorch, Scikit-learn
