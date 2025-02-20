@@ -1,10 +1,12 @@
 ## Resumo da carreira
 
-Analista de Dados | Cientista de Dados | Engenheiro de Dados
+Gerente de Dados | Cientista de Dados | Engenheiro de Dados
 
 Whatsapp +55 (31) 98457-3832
 
-Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e dados. Tenho expertise em SQL Query e na criação de dashboards com Looker Studio, Power BI, Qlik Sense e análise preditiva com Scikit-Learn, Akkio, Python e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto.
+Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e dados. Tenho expertise em SQL Query desde 2008, na criação de dashboards com Looker Studio, Power BI, Qlik Sense e análise preditiva com Scikit-Learn, Akkio, Python e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto.
+
+Além disso, tenho desenvolvido pesquisas e validações nas áreas de LLMOps, MLOps e Inteligência Artificial, explorando boas práticas para o desenvolvimento e a operação de modelos avançados. Possuo experiência com frameworks como Keras e TensorFlow, além de containerização com Docker para escalabilidade e implementação eficiente de soluções de IA.
 
 Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de dados, incluindo Azure (Azure Data Factory, Azure Synapse Analytics, Azure Machine Learning), AWS (Amazon Redshift, AWS Glue, Amazon SageMaker), e Google Cloud (BigQuery, Google Data Studio, Vertex AI). Trabalho tanto em ambiente Windows quanto Linux.
 
@@ -39,17 +41,24 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
 - Prevenção de Fraude em Cartões de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/FraudulentCreditCard)
 - Previsão de Risco de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/PredictingCreditRisk)
 
+## Projetos em Engenharia de Dados
+
+- GCP + Airflow: Pipeline de ETL para processamento de dados de vendas.
+- AWS + ETL: Pipeline de ingestão de dados de logs de acessos web.
+- Azure + ADF: Integração de múltiplas fontes de dados para um data warehouse corporativo.
+- Databricks: Processamento e análise de grandes volumes de dados de redes sociais.
+
 ## Minhas Hard Skills
 
 - **Plataformas de Big Data:** Hadoop, Apache Spark, Apache Flink
 - **Armazenamento de Dados:** Azure, HDFS (Hadoop Distributed File System), Amazon S3, Google Cloud Storage
 - **Bancos de Dados:** SQL (SQL SERVER, MYSQL, POSTGRE), NoSQL (MongoDB, Cassandra, Redis), NewSQL (CockroachDB, TiDB)
 - **Frameworks de Processamento de Dados em Tempo Real:** Kafka, Apache Storm, Apache Beam
-- **Orquestração de Fluxo de Trabalho:** SSIS, Azure Data Factory
+- **Orquestração de Fluxo de Trabalho:** SSIS, Azure Data Factory, Airflow
 - **Ferramentas de Visualização de Dados:** Tableau e Power BI
 - **Linguagens de Programação:** Python, Scala, Java, R
 - **Ferramentas de Manipulação e Limpeza de Dados:** Pandas, Apache Spark SQL, Trifacta
-- **Ferramentas de Machine Learning e IA:** TensorFlow, PyTorch, Scikit-learn
+- **Ferramentas de Machine Learning e IA:** TensorFlow, PyTorch, Scikit-learn, MLflow, Kubeflow, Hugging Face e LangChain
 - **Ferramentas de Colaboração e Versionamento:** Git, GitHub, Azure Devops
 
 ## Minhas Soft Skills
