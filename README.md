@@ -4,7 +4,7 @@ Gerente de Dados | Cientista de Dados | Engenheiro de Dados
 
 Whatsapp +55 (31) 98457-3832
 
-Desde 2013, atuo no setor automotivo, especializado em gestão de equipes e dados. Tenho expertise em SQL Query desde 2008, na criação de dashboards com Looker Studio, Power BI, Qlik Sense e análise preditiva com Scikit-Learn, Akkio, Python e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto.
+Desde 2012, atuo no setor automotivo, especializado em gestão de equipes e dados. Tenho expertise em SQL Query desde 2008, na criação de dashboards com Looker Studio, Power BI, Qlik Sense e análise preditiva com Scikit-Learn, Akkio, Python e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto.
 
 Além disso, tenho desenvolvido pesquisas e validações nas áreas de LLMOps, MLOps e Inteligência Artificial, explorando boas práticas para o desenvolvimento e a operação de modelos avançados. Possuo experiência com frameworks como Keras e TensorFlow, além de containerização com Docker para escalabilidade e implementação eficiente de soluções de IA.
 
