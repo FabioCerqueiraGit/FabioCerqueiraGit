@@ -36,10 +36,10 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
 
 ## Projetos em Ciência de Dados
 
-- Prevenção de Fraude em E-mails [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/main/FraudDetection)
-- Previsão de Preço Imobiliário com ML [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/06acea2c2cdecc66bd5c8aa26af6a2611a7cdcf4/PredictingHousingPrices)
-- Prevenção de Fraude em Cartões de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/FraudulentCreditCard)
-- Previsão de Risco de Crédito [Clique aqui para acessar](https://github.com/FabioCerqueiraGit/DataSciencePython/tree/37ed6de63e5bf09a5dc0dbaa88a1ee0ed11afc98/PredictingCreditRisk)
+- Prevenção de Fraude em E-mails.
+- Previsão de Preço Imobiliário com ML.
+- Prevenção de Fraude em Cartões de Crédito.
+- Previsão de Risco de Crédito.
 
 ## Projetos em Engenharia de Dados
 
