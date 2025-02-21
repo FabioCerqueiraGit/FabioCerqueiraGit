@@ -43,6 +43,7 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
 
 ## Projetos em Engenharia de Dados
 
+[Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/01_EngenhariaDados/tree/main)
 - GCP + Airflow: Pipeline de ETL para processamento de dados de vendas.
 - AWS + ETL: Pipeline de ingestão de dados de logs de acessos web.
 - Azure + ADF: Integração de múltiplas fontes de dados para um data warehouse corporativo.
