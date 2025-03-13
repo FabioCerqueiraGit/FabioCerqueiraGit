@@ -1,6 +1,6 @@
 ## Resumo da carreira
 
-Gerente de Dados | Cientista de Dados | Engenheiro de Dados
+Gerente de Equipes | Cientista de Dados | Engenheiro de Dados
 
 Whatsapp +55 (31) 98457-3832
 
