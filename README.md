@@ -29,11 +29,6 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
   </div>
 </div>
 
-## Projetos em Análise de Dados
-
-- Dashboard Financeiro FIAT [Clique aqui para acessar o projeto](https://github.com/FabioCerqueiraGit/AnaliseDadosPowerBI)
-- Dashboard Comercial DNC [Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Q1NzkxMzAtMjdiZC00NDAyLTgzMDktNGE5N2M2MzYyZTNhIiwidCI6ImNjMTM1YTdlLTZhZmMtNDA5Mi04MzEzLTgwNmI2NjkwODkyNiJ9)
-
 ## Projetos em Ciência de Dados
 
 [Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/02_CienciaDados/tree/main)
@@ -48,6 +43,11 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
 - AWS + ETL: Pipeline de ingestão de dados de logs de acessos web.
 - Azure + ADF: Integração de múltiplas fontes de dados para um data warehouse corporativo.
 - Databricks: Processamento e análise de grandes volumes de dados de redes sociais.
+
+## Dashboards
+
+- Dashboard Financeiro FIAT [Clique aqui para acessar o projeto](https://github.com/FabioCerqueiraGit/AnaliseDadosPowerBI)
+- Dashboard Comercial DNC [Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Q1NzkxMzAtMjdiZC00NDAyLTgzMDktNGE5N2M2MzYyZTNhIiwidCI6ImNjMTM1YTdlLTZhZmMtNDA5Mi04MzEzLTgwNmI2NjkwODkyNiJ9)
 
 ## Minhas Hard Skills
 
