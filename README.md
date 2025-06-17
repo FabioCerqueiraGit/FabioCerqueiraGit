@@ -12,9 +12,8 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
 
 ## Onde me encontrar
 
-[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=wordpress&logoColor=white&link=https://www.fabiocerqueira.com/blog)](https://www.fabiocerqueira.com/blog)
-[![Lintr.ee](https://img.shields.io/badge/-Linktr.ee-green?style=flat-square&logo=linktree&logoColor=white&link=https://www.fabiocerqueira.com)](https://www.fabiocerqueira.com)
-[![Linkedin](https://img.shields.io/badge/-Fabio%20Cerqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabitocerqueira)](https://www.linkedin.com/in/fabitocerqueira)
+[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=wordpress&logoColor=white&link=https://www.fabiocerqueira.com.br)](https://www.fabiocerqueira.com.br)
+[![Linkedin](https://img.shields.io/badge/-Fabio%20Cerqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiocerqueira-ti-automotivo)](https://www.linkedin.com/in/fabiocerqueira-ti-automotivo/)
 [![Youtube](https://img.shields.io/badge/-Fabio%20Cerqueira-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)](https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)
 
 ## Certificações
