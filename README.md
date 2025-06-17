@@ -29,11 +29,19 @@ Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de
   </div>
 </div>
 
+## Projetos DBA Mysql E Postgres
+
+[Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/03_DBA)
+- PostgreSQL Audit Logger (Auditoria Avançada em PostgreSQL): Projeto de desenvolvimento de Sistema de auditoria avançado para PostgreSQL com triggers, criptografia e Row-Level Security (RLS). Ideal para DBAs que precisam registrar alterações em tabelas sensíveis de forma robusta e rastreável.
+- Otimização de Performance em MySQL com EXPLAIN e Índices: Este Projeto visa criar um banco com consultas reais (ex: ecommerce), identificar gargalos com EXPLAIN, e mostrar o impacto de índices e tuning.
+- Dashboard de Monitoramento com PostgreSQL + Grafana: Neste projeto montei um painel interativo para monitorar saúde e performance de um banco PostgreSQL.
+- Backup e Recuperação Profissional em MySQL e PostgreSQL: Criei este projeto para mostrar boas práticas de backup full/incremental, restore, e disaster recovery em bancos MySQL e PostgreSQL.
+
 ## Projetos em Ciência de Dados
 
 [Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/02_CienciaDados/tree/main)
-- Algorithmic Trading com Hugging Face e LangChain: projeto de Algorithmic Trading utilizando as bibliotecas Hugging Face e LangChain. O objetivo é demonstrar como a Inteligência Artificial pode ser aplicada para analisar dados financeiros e tomar decisões de negociação automatizadas.
-- Fraud Detection com Hugging Face: ste projeto visa detectar fraudes em transações financeiras utilizando técnicas de Machine Learning com o Hugging Face, LangChain e PyTorch. Através de um pipeline eficiente, o sistema analisa dados financeiros e realiza a previsão de possíveis fraudes. O modelo é treinado e avaliado usando o Hugging Face Hub e a framework LangChain para facilitar a integração com APIs e sistemas externos.
+- Algorithmic Trading com Hugging Face e LangChain: Projeto de Algorithmic Trading utilizando as bibliotecas Hugging Face e LangChain. O objetivo é demonstrar como a Inteligência Artificial pode ser aplicada para analisar dados financeiros e tomar decisões de negociação automatizadas.
+- Fraud Detection com Hugging Face: Este projeto visa detectar fraudes em transações financeiras utilizando técnicas de Machine Learning com o Hugging Face, LangChain e PyTorch. Através de um pipeline eficiente, o sistema analisa dados financeiros e realiza a previsão de possíveis fraudes. O modelo é treinado e avaliado usando o Hugging Face Hub e a framework LangChain para facilitar a integração com APIs e sistemas externos.
 
 
 ## Projetos em Engenharia de Dados
