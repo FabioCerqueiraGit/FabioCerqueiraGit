@@ -27,6 +27,8 @@ Depois disso assumi a **gerência de TI de um grupo com mais de 40 unidades e 1.
 
 **Desde 2020 lidero equipes de desenvolvimento de aplicações web e mobile** em `Python`, `TypeScript`, `Node.js` e `PHP`, com `PostgreSQL`, `MySQL` e `SQL Server`. Hoje conduzo tecnicamente o desenvolvimento de um novo sistema corporativo em projeto de consultoria e sou cofundador da **Preveja.me**, um ERP com IA e comando de voz para pequenas e médias empresas.
 
+Em paralelo, sou **mestrando em Administração na UNIFACS**, com pesquisa em blockchain, IA generativa e transformação digital aplicadas a pequenas e médias empresas — [detalhes abaixo](#pesquisa).
+
 ---
 
 ## Stack
@@ -90,18 +92,66 @@ A maior parte do que desenvolvo é **código proprietário de clientes e produto
 
 ---
 
-## Certificações e formação
+## Pesquisa
 
-**Certificações Microsoft** — Azure Fundamentals (`AZ-900`) e Azure Data Fundamentals (`DP-900`), além de formações Microsoft em desenvolvimento, infraestrutura, dados e IA.
+Sou **mestrando em Administração na UNIFACS**, sob orientação do **Prof. Dr. Paulo Caetano da Silva**, com linhas de pesquisa em **blockchain, inteligência artificial generativa, computação quântica e transformação digital aplicadas às organizações** — com recorte em **pequenas e médias empresas**.
+
+Integro três projetos de pesquisa ativos:
+
+| Projeto | Linha | Coordenação |
+|---|---|---|
+| **Computação Quântica e Blockchain para Frameworks de Segurança Digital e Governança Tecnológica** `2025–atual` | Segurança digital, criptografia e governança tecnológica | Prof. Dr. Paulo Caetano da Silva |
+| **Adoção de Blockchain em Pequenas e Médias Empresas: Benefícios, Barreiras e Capacidades Organizacionais** `2026–atual` | Revisão sistemática da literatura · adoção de tecnologia | Prof. Dr. Paulo Caetano da Silva |
+| **Inteligência Artificial Generativa como Fonte de Vantagem Competitiva em PMEs** `2026–atual` | Revisão sistemática da literatura · inovação e estratégia | Prof. Augusto Monteiro |
+
+Essa pesquisa não corre em paralelo ao que faço — ela é a base. A **Preveja.me** nasceu da mesma pergunta que investigo academicamente: *por que a maioria das pequenas e médias empresas não consegue adotar tecnologia de forma sustentável, e o que muda quando IA e automação entram nesse cenário?* Trabalhar com revisão sistemática da literatura também mudou como eu conduzo decisão técnica no dia a dia — buscar evidência antes de escolher, e documentar o porquê da escolha.
+
+A investigação teve repercussão na imprensa em [Bahia Econômica](https://bahiaeconomica.com.br/wp/2026/04/02/estudantes-baianos-unem-pesquisa-negocios-e-ia-para-combater-mortalidade-de-pequenas-empresas/) e no [Jornal O Candeeiro](https://www.jornalocandeeiro.com.br/noticia-51049-estudantesbaianosunempesquisanegocioseiaparacombatermortalidadedepequenasempresas).
+
+📄 [Currículo Lattes](http://lattes.cnpq.br/5820979416959596) · 🆔 [ORCID 0009-0007-1002-4726](https://orcid.org/0009-0007-1002-4726)
+
+---
+
+## Formação acadêmica
+
+| Formação | Instituição | Situação |
+|---|---|---|
+| **Mestrado em Administração** (Administração Estratégica) | UNIFACS | Em andamento · conclusão dez/2027 |
+| **MBA em Gestão Estratégica de Negócios** | Escola Conquer | 2025–2026 |
+| **Pós-graduação em Gestão da Tecnologia da Informação** | UNINTER | Em andamento · conclusão dez/2026 |
+| **Pós-graduação em Gestão de Projetos Ágeis** | UNINTER | Em andamento · conclusão dez/2026 |
+| **Graduação em Análise e Desenvolvimento de Sistemas** | UNINTER | Concluída em 2025 |
+
+---
+
+## Formação complementar
+
+### Escola DNC — 855 horas de formação técnica
+
+Trilha completa em dados e liderança, concluída entre 2024 e 2025:
+
+| Formação | Carga horária |
+|---|---|
+| **Gestor de Dados** | 390h |
+| **Engenheiro de Dados** | 250h |
+| **Analista de Dados** | 180h |
+| **Gestão e Liderança** | 35h |
+| **Total** | **855h** |
+
+Conteúdo coberto: plataformas de Data Science, machine learning, IA aplicada, `CRISP-DM`, data cleaning e data wrangling com Python, estatística descritiva, inferencial e avançada com Python, Power BI avançado, Looker Studio, product analytics, Excel especialista e VBA, e versionamento de código com GitHub.
+
+### Certificações e formações Microsoft
+
+- **Azure Fundamentals** (`AZ-900`) e **Azure Data Fundamentals** (`DP-900`)
+- **Cloud, dados e IA:** Microsoft Fabric (lakehouse, data warehouse e Spark), arquitetura e modelos de nuvem e IA, solução de copiloto com RAG, Power BI
+- **Infraestrutura:** Windows Server, Hyper-V, Active Directory e SQL Server
+
 📁 [Portfólio completo de certificados](https://drive.google.com/drive/folders/12oFs-L50AHePZB5JE_k8S0d-CzQ4icAN?usp=sharing)
 
-**Formação acadêmica**
+### Desenvolvimento
 
-- Graduação em **Análise e Desenvolvimento de Sistemas** — UNINTER (concluída em 2025)
-- **Mestrado em Administração** — UNIFACS (em andamento, conclusão prevista em dez/2027)
-- **MBA em Gestão Estratégica de Negócios** — Escola Conquer (2025–2026)
-- Pós-graduação em **Gestão da Tecnologia da Informação** — UNINTER (em andamento)
-- Pós-graduação em **Gestão de Projetos Ágeis** — UNINTER (em andamento)
+- **Desenvolvimento GeneXus v16** — Dealernet (40h)
+- Versionamento de código com GitHub · Python · SQL
 
 ---
 
@@ -121,3 +171,4 @@ A maior parte do que desenvolvo é **código proprietário de clientes e produto
 [![Site](https://img.shields.io/badge/Site-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fabiocerqueira.com.br)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiocerqueira.br@gmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes-005580?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5820979416959596)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1002-4726)
