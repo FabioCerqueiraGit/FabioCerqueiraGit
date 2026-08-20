@@ -1,79 +1,123 @@
-## Resumo da carreira
+# Fábio Silva Cerqueira
 
-Gerente de Equipes | Cientista de Dados | Engenheiro de Dados | DBA
+**Gerente de Tecnologia, Líder Técnico · Desenvolvimento .NET, Integrações e Sistemas Corporativos**
 
-Whatsapp +55 (31) 98457-3832
+`C#` · `ASP.NET Core / MVC` · `APIs e Web Services` · `SQL Server` · `Liderança Técnica de Equipes`
 
-Desde 2012, atuo no setor automotivo, especializado em gestão de equipes e dados. Tenho expertise em SQL Query desde 2008, na criação de dashboards com Looker Studio, Power BI, Qlik Sense e análise preditiva com Scikit-Learn, Akkio, Python e R. Traduzo dados em insights acionáveis, impulsionando estratégias de negócios. Lidero investigações quantitativas, apoio na definição de KPIs, automatizo cálculos e visualizações com Zapier e Gemini, e realizo análises de mercado para decisões de produto.
+Salvador–BA, Brasil · Graduado em Análise e Desenvolvimento de Sistemas · Mestrando em Administração (UNIFACS)
 
-Além disso, tenho desenvolvido pesquisas e validações nas áreas de LLMOps, MLOps e Inteligência Artificial, explorando boas práticas para o desenvolvimento e a operação de modelos avançados. Possuo experiência com frameworks como Keras e TensorFlow, além de containerização com Docker para escalabilidade e implementação eficiente de soluções de IA.
+---
 
-Possuo domínio das ferramentas de Cloud para engenharia, análise e ciência de dados, incluindo Azure (Azure Data Factory, Azure Synapse Analytics, Azure Machine Learning), AWS (Amazon Redshift, AWS Glue, Amazon SageMaker), e Google Cloud (BigQuery, Google Data Studio, Vertex AI). Trabalho tanto em ambiente Windows quanto Linux.
+## Sobre
 
-## Onde me encontrar
+**19 anos de experiência em tecnologia**, atuando desde 2007 — construídos em torno de **sistemas corporativos, integrações e liderança de equipes de desenvolvimento**.
 
-[![Blog](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=wordpress&logoColor=white&link=https://www.fabiocerqueira.com.br)](https://www.fabiocerqueira.com.br)
-[![Linkedin](https://img.shields.io/badge/-Fabio%20Cerqueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiocerqueira-ti-automotivo)](https://www.linkedin.com/in/fabiocerqueira-ti-automotivo/)
-[![Youtube](https://img.shields.io/badge/-Fabio%20Cerqueira-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)](https://www.youtube.com/channel/UCATUp3-cRGUqEqbv2G2r_tQ)
+A maior parte dessa trajetória foi na **Dealernet**, no ERP/DMS Workflow — plataforma que atende concessionárias de veículos em todo o Brasil. Entrei como Analista de Desenvolvimento e saí como Líder de Projetos de Integração, acompanhando a evolução completa do produto:
 
-## Certificações
- <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; justify-items: center; margin: 20px;">
-  <div>
-    <div class="cr-badges-full-badge row">
-      <div class="col-12 col-md-4 cr-badges-full-badge__sidebar">
-      <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals badge image. Issued by Microsoft" width="100" height="100">
-              <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Data Fundamentals badge image. Issued by Microsoft" width="100" height="100">
-      </div> 
-    </div>
-  </div>
-</div>
+- manutenção do **sistema legado Windows** em `C++`, `Visual Basic 6` e `ASP com DLL`
+- migração para a **versão web** em `C#` / `ASP.NET MVC`
+- adoção do **`.NET Core`**
+- sempre sobre **`SQL Server`**
 
-## Projetos DBA Mysql E Postgres
+Nesse período entreguei **10 projetos de integração via APIs e web services** entre o ERP e os sistemas corporativos de montadoras — Volkswagen, Volkswagen Financial Services, FCA/Stellantis, Nissan e Renault —, conduzindo equipes técnicas em todo o ciclo: arquitetura, desenvolvimento, testes, homologação, go-live, manutenção evolutiva e sustentação.
 
-[Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/03_DBA)
-- PostgreSQL Audit Logger (Auditoria Avançada em PostgreSQL): Projeto de desenvolvimento de Sistema de auditoria avançado para PostgreSQL com triggers, criptografia e Row-Level Security (RLS). Ideal para DBAs que precisam registrar alterações em tabelas sensíveis de forma robusta e rastreável.
-- Otimização de Performance em MySQL com EXPLAIN e Índices: Este Projeto visa criar um banco com consultas reais (ex: ecommerce), identificar gargalos com EXPLAIN, e mostrar o impacto de índices e tuning.
-- Dashboard de Monitoramento com PostgreSQL + Grafana: Neste projeto montei um painel interativo para monitorar saúde e performance de um banco PostgreSQL.
-- Backup e Recuperação Profissional em MySQL e PostgreSQL: Criei este projeto para mostrar boas práticas de backup full/incremental, restore, e disaster recovery em bancos MySQL e PostgreSQL.
+Gestão em **metodologia ágil com Jira**. Versionamento e CI/CD começaram em **Team Foundation Server** e migraram para **GitHub** com a adoção de **Docker**.
 
-## Projetos em Ciência de Dados
+Depois disso assumi a **gerência de TI de um grupo com mais de 40 unidades e 1.000 colaboradores**, respondendo por sistemas corporativos, sustentação, migração de legado para nuvem e pela conversa direta com as áreas de negócio e o C-level.
 
-[Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/02_CienciaDados/tree/main)
-- Algorithmic Trading com Hugging Face e LangChain: Projeto de Algorithmic Trading utilizando as bibliotecas Hugging Face e LangChain. O objetivo é demonstrar como a Inteligência Artificial pode ser aplicada para analisar dados financeiros e tomar decisões de negociação automatizadas.
-- Fraud Detection com Hugging Face: Este projeto visa detectar fraudes em transações financeiras utilizando técnicas de Machine Learning com o Hugging Face, LangChain e PyTorch. Através de um pipeline eficiente, o sistema analisa dados financeiros e realiza a previsão de possíveis fraudes. O modelo é treinado e avaliado usando o Hugging Face Hub e a framework LangChain para facilitar a integração com APIs e sistemas externos.
+**Desde 2020 lidero equipes de desenvolvimento de aplicações web e mobile** em `Python`, `TypeScript`, `Node.js` e `PHP`, com `PostgreSQL`, `MySQL` e `SQL Server`. Hoje conduzo tecnicamente o desenvolvimento de um novo sistema corporativo em projeto de consultoria e sou cofundador da **Preveja.me**, um ERP com IA e comando de voz para pequenas e médias empresas.
 
+---
 
-## Projetos em Engenharia de Dados
+## Stack
 
-[Clique aqui para acessar os projetos](https://github.com/FabioCerqueiraGit/01_EngenhariaDados/tree/main)
-- GCP + Airflow: Pipeline de ETL para processamento de dados de vendas.
-- AWS + ETL: Pipeline de ingestão de dados de logs de acessos web.
-- Azure + ADF: Integração de múltiplas fontes de dados para um data warehouse corporativo.
-- Databricks: Processamento e análise de grandes volumes de dados de redes sociais.
+**Desenvolvimento**
 
-## Dashboards
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-- Dashboard Financeiro FIAT [Clique aqui para acessar o projeto](https://github.com/FabioCerqueiraGit/AnaliseDadosPowerBI)
-- Dashboard Comercial DNC [Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Q1NzkxMzAtMjdiZC00NDAyLTgzMDktNGE5N2M2MzYyZTNhIiwidCI6ImNjMTM1YTdlLTZhZmMtNDA5Mi04MzEzLTgwNmI2NjkwODkyNiJ9)
+**Bancos de dados**
 
-## Minhas Hard Skills
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **Plataformas de Big Data:** Hadoop, Apache Spark, Apache Flink
-- **Armazenamento de Dados:** Azure, HDFS (Hadoop Distributed File System), Amazon S3, Google Cloud Storage
-- **Bancos de Dados:** SQL (SQL SERVER, MYSQL, POSTGRE), NoSQL (MongoDB, Cassandra, Redis), NewSQL (CockroachDB, TiDB)
-- **Frameworks de Processamento de Dados em Tempo Real:** Kafka, Apache Storm, Apache Beam
-- **Orquestração de Fluxo de Trabalho:** SSIS, Azure Data Factory, Airflow
-- **Ferramentas de Visualização de Dados:** Tableau e Power BI
-- **Linguagens de Programação:** Python, Scala, Java, R
-- **Ferramentas de Manipulação e Limpeza de Dados:** Pandas, Apache Spark SQL, Trifacta
-- **Ferramentas de Machine Learning e IA:** TensorFlow, PyTorch, Scikit-learn, MLflow, Kubeflow, Hugging Face e LangChain
-- **Ferramentas de Colaboração e Versionamento:** Git, GitHub, Azure Devops
+**Engenharia, versionamento e CI/CD**
 
-## Minhas Soft Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/TFS%20%2F%20Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-- **Liderança e Gestão de Equipes:** Experiência comprovada na coordenação de times multidisciplinares, promovendo um ambiente colaborativo e produtivo.
-- **Comunicação Eficaz:** Capacidade de transmitir informações complexas de maneira clara e acessível para diferentes públicos.
-- **Resolução de Problemas:** Habilidade para identificar desafios e propor soluções inovadoras e eficazes.
-- **Gerenciamento de Projetos:** Competência em planejar, executar e finalizar projetos dentro dos prazos e orçamentos estabelecidos.
-- **Adaptabilidade:** Flexibilidade para se ajustar a novas tecnologias e metodologias, mantendo-se atualizado com as tendências do setor.
-- **Pensamento Analítico:** Forte capacidade de análise de dados para apoiar a tomada de decisões estratégicas.
+**Cloud e dados**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+## Como eu trabalho
+
+| | |
+|---|---|
+| **Arquitetura e análise** | Levantamento de requisitos com a área de negócio, modelagem de dados e desenho de solução antes da primeira linha de código. |
+| **Integrações** | APIs REST e web services entre sistemas que não foram feitos para conversar. É o problema que resolvo há mais tempo e com mais profundidade. |
+| **Legado e sustentação** | Manter o que está em produção funcionando enquanto se moderniza. Já fiz a travessia de Windows/VB6 para web/.NET sem parar a operação. |
+| **Liderança técnica** | Orientação técnica de analistas, definição de padrões, revisão de entregas e responsabilidade pela qualidade do que o time coloca em produção. |
+| **Negócio ↔ tecnologia** | Traduzir necessidade de negócio em especificação técnica — e resultado técnico em linguagem de gestor. |
+
+---
+
+## Repositórios públicos
+
+A maior parte do que desenvolvo é **código proprietário de clientes e produtos**, portanto privado. Estes são os repositórios abertos, criados como laboratório de estudo e demonstração técnica:
+
+| Repositório | Conteúdo |
+|---|---|
+| **[03_DBA](https://github.com/FabioCerqueiraGit/03_DBA)** | Auditoria avançada em PostgreSQL (triggers, `pgcrypto`, Row-Level Security); otimização de performance em MySQL com `EXPLAIN` e índices; monitoramento com Grafana + Prometheus; rotinas de backup e disaster recovery. Tudo containerizado com Docker. |
+| **[01_EngenhariaDados](https://github.com/FabioCerqueiraGit/01_EngenhariaDados)** | Pipelines de ETL em GCP + Airflow, AWS Glue, Azure Data Factory e Databricks. |
+| **[02_CienciaDados](https://github.com/FabioCerqueiraGit/02_CienciaDados)** | Estudos aplicados de machine learning — detecção de fraude e análise de séries financeiras com Hugging Face, LangChain e PyTorch. |
+| **[ApacheAirFlow](https://github.com/FabioCerqueiraGit/ApacheAirFlow)** | Scripts e DAGs de orquestração. |
+
+---
+
+## Certificações e formação
+
+**Certificações Microsoft** — Azure Fundamentals (`AZ-900`) e Azure Data Fundamentals (`DP-900`), além de formações Microsoft em desenvolvimento, infraestrutura, dados e IA.
+📁 [Portfólio completo de certificados](https://drive.google.com/drive/folders/12oFs-L50AHePZB5JE_k8S0d-CzQ4icAN?usp=sharing)
+
+**Formação acadêmica**
+
+- Graduação em **Análise e Desenvolvimento de Sistemas** — UNINTER (concluída em 2025)
+- **Mestrado em Administração** — UNIFACS (em andamento, conclusão prevista em dez/2027)
+- **MBA em Gestão Estratégica de Negócios** — Escola Conquer (2025–2026)
+- Pós-graduação em **Gestão da Tecnologia da Informação** — UNINTER (em andamento)
+- Pós-graduação em **Gestão de Projetos Ágeis** — UNINTER (em andamento)
+
+---
+
+## Reconhecimentos
+
+🏆 **Melhor Solução em Inovação — 1º lugar no Demoday do 3º Ciclo do Programa Flow** · Hub Salvador / Cepedi / Wayra–Vivo Telefônica (2026), com a **Preveja.me**
+
+🏆 **Reconhecimento Sebrae — "1.000 Startups Mais Inovadoras do Brasil"**
+
+🎤 Palestrante no **Web Summit Rio 2026** (Startup Alpha) e no VII Congresso Gestão & Negócios da UNIFACS
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiocerqueira-cto/)
+[![Site](https://img.shields.io/badge/Site-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fabiocerqueira.com.br)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiocerqueira.br@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-005580?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5820979416959596)
