@@ -118,10 +118,10 @@ A investigação teve repercussão na imprensa em [Bahia Econômica](https://bah
 | Formação | Instituição | Situação |
 |---|---|---|
 | **Mestrado em Administração** (Administração Estratégica) | UNIFACS | Em andamento · conclusão dez/2027 |
-| **MBA em Gestão Estratégica de Negócios** | Escola Conquer | 2025–2026 |
-| **Pós-graduação em Gestão da Tecnologia da Informação** | UNINTER | Em andamento · conclusão dez/2026 |
+| **MBA em Gestão Estratégica de Negócios** | Escola Conquer | Concluída |
+| **Pós-graduação em Gestão da Tecnologia da Informação** | UNINTER | Em andamento · conclusão out/2026 |
 | **Pós-graduação em Gestão de Projetos Ágeis** | UNINTER | Em andamento · conclusão dez/2026 |
-| **Graduação em Análise e Desenvolvimento de Sistemas** | UNINTER | Concluída em 2025 |
+| **Graduação em Análise e Desenvolvimento de Sistemas** | UNINTER | Concluída |
 
 ---
 
