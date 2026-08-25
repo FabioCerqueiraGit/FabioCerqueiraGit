@@ -81,13 +81,14 @@ Em paralelo, sou **mestrando em Administração na UNIFACS**, com pesquisa em bl
 
 ## Repositórios públicos
 
-A maior parte do que desenvolvo é **código proprietário de clientes e produtos**, portanto privado. Estes são os repositórios abertos, criados como laboratório de estudo e demonstração técnica:
+A maior parte do que desenvolvo é **código proprietário de clientes e produtos**, portanto privado. Estes são os repositórios abertos:
 
 | Repositório | Conteúdo |
 |---|---|
-| **[03_DBA](https://github.com/FabioCerqueiraGit/03_DBA)** | Auditoria avançada em PostgreSQL (triggers, `pgcrypto`, Row-Level Security); otimização de performance em MySQL com `EXPLAIN` e índices; monitoramento com Grafana + Prometheus; rotinas de backup e disaster recovery. Tudo containerizado com Docker. |
+| **[Solucoes_DotNet_SQL](https://github.com/FabioCerqueiraGit/Solucoes_DotNet_SQL)** | **Biblioteca de soluções C#/.NET e SQL Server** — um canivete suíço operacional com 91 documentos e 27 scripts T-SQL, organizado em 11 áreas. Cobre diagnóstico de SQL Server em produção (bloqueio, deadlock, `tempdb`, transaction log, planos e índices), armadilhas de .NET (`HttpClient`, `async`/`await`, DI, serviços em segundo plano), ASP.NET das WebForms ao Core, integrações REST/SOAP/XML/arquivo, sistemas legados, segurança (SQL Injection, segredos, TLS, senhas), DevOps e arquitetura.<br><br>O que o diferencia de uma coleção de snippets: **cada solução declara compatibilidade de versão, impacto em produção e quando NÃO usar**. Navegação dupla — por **sintoma** ("o banco travou", "a API dá timeout") e por **tecnologia**. Documentação em pt-BR.<br><br>Inclui também os projetos de DBA que originaram o repositório: auditoria avançada em PostgreSQL com triggers, `pgcrypto` e Row-Level Security; tuning de MySQL com `EXPLAIN` e índices; monitoramento com Grafana + Prometheus; e rotinas de backup e disaster recovery. |
 | **[01_EngenhariaDados](https://github.com/FabioCerqueiraGit/01_EngenhariaDados)** | Pipelines de ETL em GCP + Airflow, AWS Glue, Azure Data Factory e Databricks. |
 | **[02_CienciaDados](https://github.com/FabioCerqueiraGit/02_CienciaDados)** | Estudos aplicados de machine learning — detecção de fraude e análise de séries financeiras com Hugging Face, LangChain e PyTorch. |
+| **[AnaliseDadosPowerBI](https://github.com/FabioCerqueiraGit/AnaliseDadosPowerBI)** | Portfólio de análise de dados com Power BI, DAX, SQL e Excel. |
 | **[ApacheAirFlow](https://github.com/FabioCerqueiraGit/ApacheAirFlow)** | Scripts e DAGs de orquestração. |
 
 ---
